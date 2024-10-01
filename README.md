@@ -5,7 +5,7 @@
 
 <div align="center">
     
-   <h2 align="center"><ins>About Me</ins> </h2>
+   <h3 align="center"><ins>About Me</ins> </h2>
  
   🏫I’m currently a ```Sophomore``` at Hunter College
  
