@@ -4,7 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Serif&size=35&color=974EF7FF&center=true&vCenter=true&width=1000&height=70&duration=3500&pause=1000&lines=Hey+There!+I'm+Calvin;+I'm+a+student+at+Hunter+College!;+I+currently+work+as+an+Undergraduate+Teaching+Assistant!" />
   </h1>
 
-<h3 align="center"><ins>About Me</ins></h2>
+<h2 align="center"><ins>About Me</ins></h2>
+
+<div align="center">
+ 
+  🏫I’m currently a ```Sophomore``` at Hunter College
+ 
+  🧑‍🎓I'm majoring in ```Computer Science``` and I'm interested in ```Software Engineering``` and ```Game Development```
+
+  💭Looking to learn about ```Godot``` and develop my first game using a game engine
+
+  🎮I play a bunch of different games but my current favorite is ```Elden Ring```
+
+ </div>
+
+___
+
+
     
       
 <!--
