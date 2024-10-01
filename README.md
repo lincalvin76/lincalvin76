@@ -1,4 +1,5 @@
-# <p align="center">Hello! I'm Calvin <img src ="https://github.com/user-attachments/assets/e5d72c67-435d-4d41-9106-f4337dd630bc" width = "150"  height = "100" /> </p>  
+# <p align="center">Hello! I'm Calvin ![mudkip](https://github.com/user-attachments/assets/897ada2c-c892-4110-99cd-a99cf1f3bd03) </p>  
+
 
 
 
