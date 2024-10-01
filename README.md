@@ -1,6 +1,4 @@
-# Hey!, I'm Calvin ![pika](https://github.com/user-attachments/assets/67c02af5-23ad-4e2c-a2a3-de54a68c99c8)
 
----
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
