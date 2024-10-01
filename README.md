@@ -1,4 +1,4 @@
-<p style = "text-align: center;"> # Hello! I'm Calvin <\p>
+<center>#Hello! I'm Calvin ![mudkip](https://github.com/user-attachments/assets/324de312-2aa7-4df7-bf4b-b7a98d15b2be) </center>
 
 </h2>
 
