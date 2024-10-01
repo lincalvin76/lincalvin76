@@ -1,9 +1,11 @@
+# Hey!, I'm Calvin 
 
+---
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?
 font=Righteous&size=35*center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+There!+I'm+Calvin.;+I'm+currently+a+student+at+Hunter+College!;+I+am+a+undergraduate+teaching+assistant!;" />
+  </h2>
 
 ---
       
