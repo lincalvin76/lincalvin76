@@ -1,13 +1,13 @@
 # Hey!, I'm Calvin 
 
----
+</h2>
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?
 font=Righteous&size=35*center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+There!+I'm+Calvin.;+I'm+currently+a+student+at+Hunter+College!;+I+am+a+undergraduate+teaching+assistant!;" />
   </h2>
 
----
+
       
 <!--
 **lincalvin76/lincalvin76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
