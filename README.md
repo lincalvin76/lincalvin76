@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hey!, I'm Calvin ![pika](https://github.com/user-attachments/assets/67c02af5-23ad-4e2c-a2a3-de54a68c99c8)
 
+---
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35*center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+There!+I'm+Calvin.;+I'm+currently+a+student+at+Hunter+College!;+I+am+a+undergraduate+teaching+assistant!;" />
+
+---
+      
 <!--
 **lincalvin76/lincalvin76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
