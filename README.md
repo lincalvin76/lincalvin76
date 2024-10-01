@@ -6,6 +6,8 @@
 
 <h2 align="center"><ins>About Me</ins>
 
+######
+
 <div align="center">
  
   🏫I’m currently a ```Sophomore``` at Hunter College
