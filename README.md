@@ -2,12 +2,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Serif&size=35&color=974EF7FF&center=true&vCenter=true&width=1000&height=70&duration=3500&pause=1000&lines=Hey+There!+I'm+Calvin;+I'm+a+student+at+Hunter+College!;+I+currently+work+as+an+Undergraduate+Teaching+Assistant!" />
-  </h1>
 
-<h2 align="center"><ins>About Me</ins>
+<h2 align="center"><ins>About Me</ins> </h2>
 
 <div align="center">
-
  
   🏫I’m currently a ```Sophomore``` at Hunter College
  
