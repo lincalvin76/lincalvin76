@@ -31,7 +31,7 @@ ___
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Lua" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconslua/lua-original.svg" />
 
-<br>
+<br><br>
 
 ## Front-End Development:
 </h2>
