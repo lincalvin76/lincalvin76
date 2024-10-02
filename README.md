@@ -1,4 +1,4 @@
-# <p align="center">![Spinkip](https://github.com/user-attachments/assets/96de5011-e17d-49e0-bf34-cc43755b213d)</p> 
+# <p align="center"><img src="https://github.com/user-attachments/assets/96de5011-e17d-49e0-bf34-cc43755b213d" height="100" width="1000"/></p> 
 
 
 <h1 align="center">
