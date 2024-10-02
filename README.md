@@ -19,8 +19,7 @@
   🎮I play a bunch of different games but my current favorite is ```Elden Ring```
 
  </div>
-
-<br><br>
+ 
 ___
 
 <h3 align="center"><ins>Inventory/Skills</ins></h3>
