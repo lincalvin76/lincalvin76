@@ -57,5 +57,7 @@ ___
 
 <h3 align="center"><ins>Stats</ins></h3>
 
-![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&custom_title=Calvin's+Status)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Calvin's+Status)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincalvin76&layout=compact&theme=midnight-purple&custom_title=Language+Usage)<br/>
 
