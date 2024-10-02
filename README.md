@@ -37,7 +37,7 @@ ___
 </h2>
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<br>
+<br><br>
 
 ## Software/Tools:
 </h2>
@@ -47,7 +47,7 @@ ___
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VsCode" width ="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br>
+<br><br>
 
 ## Extra:
 </h2>
