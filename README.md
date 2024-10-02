@@ -60,6 +60,7 @@ ___
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Calvin's+Status)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincalvin76&layout=compact&theme=midnight-purple&custom_title=Language+Usage)<br/>
     
 </div>
