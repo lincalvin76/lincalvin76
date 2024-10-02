@@ -6,7 +6,6 @@
 <h3 align="center"><ins>About Me</ins></h3>
 <h4 align="center">⚔️<code>Level 1 Developer</code>⚔️</h4>
 
-
 <br/>
 
 <div align="center">
@@ -53,5 +52,9 @@ ___
 </h2>
 <img align="left" alt="MarkDown" width ="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
+___
 
+<h3 align="center"><ins>Stats</ins></h3>
+
+![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
