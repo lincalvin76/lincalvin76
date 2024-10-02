@@ -1,4 +1,5 @@
-# <p align="center">🖥️<img src="https://github.com/user-attachments/assets/897ada2c-c892-4110-99cd-a99cf1f3bd03" width = "75" height = "75" />🎮</p>  
+# <p align="center">![Spinkip](https://github.com/user-attachments/assets/96de5011-e17d-49e0-bf34-cc43755b213d)</p> 
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Serif&size=35&color=974EF7FF&center=true&vCenter=true&width=1000&height=70&duration=3500&pause=1000&lines=Hey+There!+I'm+Calvin;+I'm+a+student+at+Hunter+College!;+I+currently+work+as+an+Undergraduate+Teaching+Assistant!" />
