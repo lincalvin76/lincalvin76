@@ -20,7 +20,7 @@
 
  </div>
 
-<br/>
+<br><br>
 ___
 
 <h3 align="center"><ins>Inventory/Skills</ins></h3>
