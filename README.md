@@ -57,5 +57,5 @@ ___
 
 <h3 align="center"><ins>Stats</ins></h3>
 
-![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lincalvin76&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
