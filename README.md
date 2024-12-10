@@ -14,9 +14,9 @@
  
   🧑‍🎓I'm majoring in ```Computer Science``` and I'm interested in ```Software Engineering``` and ```Game Development```
 
-  💭Looking to learn about ```Godot``` and develop my first game using a game engine
-
-  🎮I play a bunch of different games but my current favorite is ```Elden Ring```
+  💭 Recently uploaded my first game using ```Godot``` and won a Hackathon
+  
+  🎮I play a bunch of different games, but I'm currently playing ```Marvel Rivals```
 
  </div>
  
