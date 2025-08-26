@@ -10,13 +10,13 @@
 
 <div align="center">
  
-  🏫I’m currently a ```Sophomore``` at Hunter College
+  🏫I’m currently a ```Junior``` at Hunter College
  
   🧑‍🎓I'm majoring in ```Computer Science``` and I'm interested in ```Software Engineering``` and ```Game Development```
 
-  💭 Recently uploaded my first game using ```Godot``` and won a Hackathon
+  💭 Recently completed my first internship at ```Unadat```
   
-  🎮I play a bunch of different games, but I'm currently playing ```Marvel Rivals```
+  🎮I play a bunch of different games, but I'm currently playing ```Minecraft Modded```
 
  </div>
  
