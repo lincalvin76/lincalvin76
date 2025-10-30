@@ -14,9 +14,9 @@
  
   🧑‍🎓I'm majoring in ```Computer Science``` and I'm interested in ```Software Engineering``` and ```Game Development```
 
-  💭 Recently completed my first internship at ```Unadat```
+  💭 Recently participated in ```Hack Knight```
   
-  🎮I play a bunch of different games, but I'm currently playing ```Minecraft Modded```
+  🎮I play a bunch of different games, but I'm currently playing ```Blue Protcol: Star Resonance```
 
  </div>
  
