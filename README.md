@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Serif&size=35&color=974EF7FF&center=true&vCenter=true&width=1000&height=70&duration=3500&pause=1000&lines=Hey+There!+I'm+Calvin;+I'm+a+student+at+Hunter+College!;+I+currently+work+as+an+Undergraduate+Teaching+Assistant!" />
 
 <h3 align="center"><ins>About Me</ins></h3>
-<h4 align="center">⚔️<code>Level 1 Developer</code>⚔️</h4>
+<h4 align="center">⚔️<code>Level ? Developer</code>⚔️</h4>
 
 <br/>
 
 <div align="center">
  
-  🏫I’m currently a ```Junior``` at Hunter College
+  🏫I’m currently a ```Senior``` at Hunter College
  
   🧑‍🎓I'm majoring in ```Computer Science``` and I'm interested in ```Software Engineering``` and ```Game Development```
 
-  💭 Recently participated in ```Hack Knight```
+  💭 Recently participated in ```Hunter Hacks 2026```
   
-  🎮I play a bunch of different games, but I'm currently playing ```Blue Protcol: Star Resonance```
+  🎮I play a bunch of different games, but I'm currently playing ```Minecraft```
 
  </div>
  
