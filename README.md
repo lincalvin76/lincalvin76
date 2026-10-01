@@ -16,7 +16,7 @@
 
   💭 Recently participated in ```Hunter Hacks 2026```
   
-  🎮I play a bunch of different games, but I'm currently playing ```Minecraft```
+  🎮I play a bunch of different games, but I'm currently playing ```Riftbound```
 
  </div>
  
